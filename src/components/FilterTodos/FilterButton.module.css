@@ -1,0 +1,14 @@
+.button {
+  border: none;
+  background-color: inherit;
+  color: inherit;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.button:hover,
+.active {
+  border-bottom: 2px solid rgb(112, 92, 92);
+  color:rgb(112, 92, 92);
+  font-size: small;
+}

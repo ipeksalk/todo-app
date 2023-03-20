@@ -1,0 +1,41 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #ccc;
+  font-weight: bold;
+  padding: 0 0.3rem;
+}
+
+.item:last-of-type {
+  border-bottom: none;
+}
+
+.item button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  font-size: large;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+}
+
+.item button:hover,
+.item button:active {
+  font-size: xx-large;
+}
+
+.item p {
+  overflow-wrap: anywhere;
+  width: 100%;
+}
+
+.completed {
+  text-decoration: line-through;
+  text-decoration-color: rgb(112, 92, 92);
+}
+
