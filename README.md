@@ -14,9 +14,9 @@ This simple todo app
 - Local Storage
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ipeksalk/todo-app/main/src/assets/app-img1.png" alt="app-img1" width="480"/>
-  <img src="https://raw.githubusercontent.com/ipeksalk/todo-app/main/src/assets/app-img2.png" alt="app-img2" width="480"/>
-  <img src="https://raw.githubusercontent.com/ipeksalk/todo-app/main/src/assets/app-img3.png" alt="app-img3" width="480"/>
+  <img src="src/assets/app-img1.png" alt="app-img1" width="480"/>
+  <img src="src/assets/app-img2.png" alt="app-img2" width="480"/>
+  <img src="src/assets/app-img3.png" alt="app-img3" width="480"/>
 </div>
 
 ## Usage
