@@ -1,5 +1,5 @@
 # TODO APP
-This simple todo app
+This simple [todo app](https://ipeksalk.github.io/todo-app/)
 - adds tasks
 - deletes tasks
 - marks as complete selected tasks
